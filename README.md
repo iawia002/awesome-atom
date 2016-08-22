@@ -3,6 +3,8 @@ Some useful Atom packages
 
 
 ## Table of Content
+* [Themes](#Themes)
+  * [atom-material-ui](#atom-material-ui)
 * [Common](#Common)
   * [relative-numbers](#relative-numbers)
   * [trailing-spaces](#trailing-spaces)
@@ -32,6 +34,12 @@ Some useful Atom packages
   * [autocomplete-python](#autocomplete-python)
   * [linter-flake8](#linter-flake8)
   * [python-tools](#python-tools)
+
+
+## <a name="Themes"></a> Themes
+* <a name="atom-material-ui"></a> [atom-material-ui](https://atom.io/themes/atom-material-ui) - A dark UI theme for Atom that follows Google's Material Design Guidelines
+
+![](imgs/atom-material-ui.png)
 
 
 ## <a name="Common"></a> Common
