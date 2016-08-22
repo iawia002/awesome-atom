@@ -1,6 +1,7 @@
 # Awesome Atom
 Some useful Atom packages
 
+[中文](README-cn.md)
 
 ## Table of Content
 * [Themes](#Themes)
@@ -18,7 +19,7 @@ Some useful Atom packages
   * [Nuclide](#Nuclide)
   * [linter](#linter)
   * [highlight-selected](#highlight-selected)
-* [Html](#Html)
+* [HTML](#HTML)
   * [emmet](#emmet)
   * [tag](#tag)
 * [CSS](#CSS)
@@ -60,7 +61,7 @@ Some useful Atom packages
 
 ![](imgs/minimap.png)
 
-* <a name="minimap-pigments"></a> [minimap-pigments](https://atom.io/packages/minimap-pigments) - An Atom plugin to display [pigments](#pigments) colors in the Minimap
+* <a name="minimap-pigments"></a> [minimap-pigments](https://atom.io/packages/minimap-pigments) - An Atom plugin to display [pigments](#pigments) colors in the [Minimap](#minimap)
 
 ![](imgs/minimap-pigments.png)
 
@@ -88,7 +89,7 @@ Original HTML | Beautified HTML
 ![](imgs/highlight-selected.gif)
 
 
-## <a name="Html"></a> Html
+## <a name="HTML"></a> HTML
 
 * <a name="emmet"></a> [emmet](https://atom.io/packages/emmet) - the essential tool for web developers
 
