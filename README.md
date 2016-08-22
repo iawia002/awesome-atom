@@ -11,6 +11,7 @@ Some useful Atom packages
   * [vim-mode](#vim-mode)
   * [ex-mode](#ex-mode)
   * [minimap](#minimap)
+  * [minimap-pigments](#minimap-pigments)
   * [autocomplete-paths](#autocomplete-paths)
   * [atom-beautify](#atom-beautify)
   * [imdone-atom](#imdone-atom)
@@ -58,6 +59,10 @@ Some useful Atom packages
 * <a name="minimap"></a> [minimap](https://atom.io/packages/minimap) - A preview of the full source code
 
 ![](imgs/minimap.png)
+
+* <a name="minimap-pigments"></a> [minimap-pigments](https://atom.io/packages/minimap-pigments) - An Atom plugin to display [pigments](#pigments) colors in the Minimap
+
+![](imgs/minimap-pigments.png)
 
 * <a name="autocomplete-paths"></a> [autocomplete-paths](https://atom.io/packages/autocomplete-paths) - Adds path autocompletion to autocomplete+
 
