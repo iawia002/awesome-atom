@@ -19,6 +19,7 @@
   * [Nuclide](#Nuclide)
   * [linter](#linter)
   * [highlight-selected](#highlight-selected)
+  * [project-manager](#project-manager)
 * [HTML](#HTML)
   * [emmet](#emmet)
   * [tag](#tag)
@@ -87,6 +88,10 @@
 * <a name="highlight-selected"></a> [highlight-selected](https://atom.io/packages/highlight-selected) - 高亮选中的部分
 
 ![](imgs/highlight-selected.gif)
+
+* <a name="project-manager"></a> [project-manager](https://atom.io/packages/project-manager) -  Atom 项目管理工具
+
+![](imgs/project-manager.gif)
 
 
 ## <a name="HTML"></a> HTML

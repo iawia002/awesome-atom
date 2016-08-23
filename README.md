@@ -19,6 +19,7 @@ Some useful Atom packages
   * [Nuclide](#Nuclide)
   * [linter](#linter)
   * [highlight-selected](#highlight-selected)
+  * [project-manager](#project-manager)
 * [HTML](#HTML)
   * [emmet](#emmet)
   * [tag](#tag)
@@ -87,6 +88,10 @@ Original HTML | Beautified HTML
 * <a name="highlight-selected"></a> [highlight-selected](https://atom.io/packages/highlight-selected) - Highlights the current word selected when double clicking
 
 ![](imgs/highlight-selected.gif)
+
+* <a name="project-manager"></a> [project-manager](https://atom.io/packages/project-manager) - Project Manager for easy access and switching between projects in Atom
+
+![](imgs/project-manager.gif)
 
 
 ## <a name="HTML"></a> HTML
