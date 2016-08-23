@@ -20,6 +20,7 @@ Some useful Atom packages
   * [linter](#linter)
   * [highlight-selected](#highlight-selected)
   * [project-manager](#project-manager)
+  * [file-icons](#file-icons)
 * [HTML](#HTML)
   * [emmet](#emmet)
   * [tag](#tag)
@@ -33,6 +34,7 @@ Some useful Atom packages
   * [linter-eslint](#linter-eslint)
   * [hyperclick](#hyperclick)
   * [js-hyperclick](#js-hyperclick)
+  * [language-babel](#language-babel)
 * [python](#python)
   * [autocomplete-python](#autocomplete-python)
   * [linter-flake8](#linter-flake8)
@@ -93,6 +95,10 @@ Original HTML | Beautified HTML
 
 ![](imgs/project-manager.gif)
 
+* <a name="file-icons"></a> [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colours for improved visual grepping
+
+![](imgs/file-icons.png)
+
 
 ## <a name="HTML"></a> HTML
 
@@ -134,6 +140,8 @@ Original HTML | Beautified HTML
 * <a name="js-hyperclick"></a> [js-hyperclick](https://atom.io/packages/js-hyperclick) - A hyperclick provider that lets you jump to where variables are defined
 
 ![](imgs/js-hyperclick.png)
+
+* <a name="language-babel"></a> [language-babel](https://atom.io/packages/language-babel) - Babel JavaScript ES201x, React JSX & Flow Grammar & Transpiler
 
 
 ## <a name="python"></a> python

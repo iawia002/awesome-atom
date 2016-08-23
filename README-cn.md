@@ -20,6 +20,7 @@
   * [linter](#linter)
   * [highlight-selected](#highlight-selected)
   * [project-manager](#project-manager)
+  * [file-icons](#file-icons)
 * [HTML](#HTML)
   * [emmet](#emmet)
   * [tag](#tag)
@@ -33,6 +34,7 @@
   * [linter-eslint](#linter-eslint)
   * [hyperclick](#hyperclick)
   * [js-hyperclick](#js-hyperclick)
+  * [language-babel](#language-babel)
 * [python](#python)
   * [autocomplete-python](#autocomplete-python)
   * [linter-flake8](#linter-flake8)
@@ -93,6 +95,10 @@
 
 ![](imgs/project-manager.gif)
 
+* <a name="file-icons"></a> [file-icons](https://atom.io/packages/file-icons) - 给不同类型的文件加上不同的图标
+
+![](imgs/file-icons.png)
+
 
 ## <a name="HTML"></a> HTML
 
@@ -134,6 +140,8 @@
 * <a name="js-hyperclick"></a> [js-hyperclick](https://atom.io/packages/js-hyperclick) - 变量定义跳转
 
 ![](imgs/js-hyperclick.png)
+
+* <a name="language-babel"></a> [language-babel](https://atom.io/packages/language-babel) - Babel, React JSX 语法支持
 
 
 ## <a name="python"></a> python
