@@ -1,11 +1,14 @@
 # Awesome Atom
+
 Some useful Atom packages
 
 [中文](README-cn.md)
 
 ## Table of Content
+
 * [Themes](#Themes)
   * [atom-material-ui](#atom-material-ui)
+
 * [Common](#Common)
   * [relative-numbers](#relative-numbers)
   * [trailing-spaces](#trailing-spaces)
@@ -21,20 +24,24 @@ Some useful Atom packages
   * [highlight-selected](#highlight-selected)
   * [project-manager](#project-manager)
   * [file-icons](#file-icons)
+
 * [HTML](#HTML)
   * [emmet](#emmet)
   * [tag](#tag)
+
 * [CSS](#CSS)
   * [color-picker](#color-picker)
   * [autoprefixer](#autoprefixer)
   * [pigments](#pigments)
   * [linter-scss-lint](#linter-scss-lint)
+
 * [JavaScript](#JavaScript)
   * [linter-jshint](#linter-jshint)
   * [linter-eslint](#linter-eslint)
   * [hyperclick](#hyperclick)
   * [js-hyperclick](#js-hyperclick)
   * [language-babel](#language-babel)
+
 * [python](#python)
   * [autocomplete-python](#autocomplete-python)
   * [linter-flake8](#linter-flake8)

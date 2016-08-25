@@ -1,11 +1,14 @@
 # Awesome Atom
+
 一些有用的 Atom 插件
 
 [English](README.md)
 
 ## 目录
+
 * [主题](#Themes)
   * [atom-material-ui](#atom-material-ui)
+
 * [通用](#Common)
   * [relative-numbers](#relative-numbers)
   * [trailing-spaces](#trailing-spaces)
@@ -21,20 +24,24 @@
   * [highlight-selected](#highlight-selected)
   * [project-manager](#project-manager)
   * [file-icons](#file-icons)
+
 * [HTML](#HTML)
   * [emmet](#emmet)
   * [tag](#tag)
+
 * [CSS](#CSS)
   * [color-picker](#color-picker)
   * [autoprefixer](#autoprefixer)
   * [pigments](#pigments)
   * [linter-scss-lint](#linter-scss-lint)
+
 * [JavaScript](#JavaScript)
   * [linter-jshint](#linter-jshint)
   * [linter-eslint](#linter-eslint)
   * [hyperclick](#hyperclick)
   * [js-hyperclick](#js-hyperclick)
   * [language-babel](#language-babel)
+
 * [python](#python)
   * [autocomplete-python](#autocomplete-python)
   * [linter-flake8](#linter-flake8)
