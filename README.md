@@ -24,6 +24,8 @@ Some useful Atom packages
   * [highlight-selected](#highlight-selected)
   * [project-manager](#project-manager)
   * [file-icons](#file-icons)
+  * [activate-power-mode](#activate-power-mode)
+  * [regex-railroad-diagram](#regex-railroad-diagram)
 
 * [HTML](#HTML)
   * [emmet](#emmet)
@@ -105,6 +107,14 @@ Original HTML | Beautified HTML
 * <a name="file-icons"></a> [file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colours for improved visual grepping
 
 ![](imgs/file-icons.png)
+
+* <a name="activate-power-mode"></a> [activate-power-mode](https://atom.io/packages/activate-power-mode) - Activate POWER MODE to write your code in style
+
+![](imgs/activate-power-mode.gif)
+
+* <a name="regex-railroad-diagram"></a> [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - Display railroad diagram of regex under cursor
+
+![](imgs/regex-railroad-diagram.png)
 
 
 ## <a name="HTML"></a> HTML

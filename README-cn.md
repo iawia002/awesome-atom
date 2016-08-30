@@ -24,6 +24,8 @@
   * [highlight-selected](#highlight-selected)
   * [project-manager](#project-manager)
   * [file-icons](#file-icons)
+  * [activate-power-mode](#activate-power-mode)
+  * [regex-railroad-diagram](#regex-railroad-diagram)
 
 * [HTML](#HTML)
   * [emmet](#emmet)
@@ -105,6 +107,14 @@
 * <a name="file-icons"></a> [file-icons](https://atom.io/packages/file-icons) - 给不同类型的文件加上不同的图标
 
 ![](imgs/file-icons.png)
+
+* <a name="activate-power-mode"></a> [activate-power-mode](https://atom.io/packages/activate-power-mode)
+
+![](imgs/activate-power-mode.gif)
+
+* <a name="regex-railroad-diagram"></a> [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - 图形化显示正则表达式
+
+![](imgs/regex-railroad-diagram.png)
 
 
 ## <a name="HTML"></a> HTML
