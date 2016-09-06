@@ -26,6 +26,7 @@ Some useful Atom packages
   * [file-icons](#file-icons)
   * [activate-power-mode](#activate-power-mode)
   * [regex-railroad-diagram](#regex-railroad-diagram)
+  * [split-diff](#split-diff)
 
 * [HTML](#HTML)
   * [emmet](#emmet)
@@ -115,6 +116,10 @@ Original HTML | Beautified HTML
 * <a name="regex-railroad-diagram"></a> [regex-railroad-diagram](https://atom.io/packages/regex-railroad-diagram) - Display railroad diagram of regex under cursor
 
 ![](imgs/regex-railroad-diagram.png)
+
+* <a name="split-diff"></a> [split-diff](https://atom.io/packages/split-diff) - A split pane diff tool
+
+![](imgs/split-diff.gif)
 
 
 ## <a name="HTML"></a> HTML
